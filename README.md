@@ -59,3 +59,30 @@ This project is licensed under the [MIT License](LICENSE).
 
 Replace placeholders like `your-username`, `[Name of an E-Commerce Platform or Template]`, and `[List of contributors or resources you used]` with actual information specific to your project. 
 The README should be a helpful guide for others to understand, use, and potentially contribute to your e-commerce website.
+
+ ## Here are some links to resources that you might find helpful for building an e-commerce website using HTML, CSS, and MySQLi:
+
+1. **Bootstrap (Frontend Framework):**
+   - [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/)
+   - [Bootstrap Starter Template](https://getbootstrap.com/docs/5.0/getting-started/introduction/#starter-template)
+
+2. **Font Awesome (Icon Library):**
+   - [Font Awesome Icons](https://fontawesome.com/icons)
+
+3. **MySQLi (PHP Extension for MySQL):**
+   - [PHP MySQLi Manual](https://www.php.net/manual/en/book.mysqli.php)
+
+4. **W3Schools (HTML, CSS, MySQL, PHP Tutorials):**
+   - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
+   - [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
+   - [W3Schools MySQL Tutorial](https://www.w3schools.com/sql/)
+   - [W3Schools PHP Tutorial](https://www.w3schools.com/php/)
+
+5. **GitHub (Version Control and Collaboration):**
+   - [GitHub Guides](https://guides.github.com/)
+
+6. **Markdown (Writing README Files):**
+   - [Markdown Guide](https://www.markdownguide.org/)
+
+These resources cover a range of topics from frontend development using Bootstrap to backend development with MySQLi in PHP. 
+Remember to check the documentation and tutorials provided by these resources for in-depth learning and implementation.
